@@ -1,0 +1,14 @@
+/node_modules
+/dist
+/build
+/public/assets
+
+
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+bun.lock
+bun.lock.json
+bun.lock.yaml
+bun.lock.json
